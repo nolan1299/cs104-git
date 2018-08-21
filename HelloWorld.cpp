@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-	std::coud << "Hello, world!" << std::endl;
+	std::coud << "FightOn!" << std::endl;
 }
 
